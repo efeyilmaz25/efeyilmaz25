@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hello all of you! I am Efe Yılmaz Taşyürek, I continue to work as an intern in the Medicine-Artificial Intelligence sector. Using the knowledge and skills I have acquired in Medicine-Artificial Intelligence, I focus on becoming a professional specialized in the fields of Machine Learning, Deep Learning and Artificial Intelligence.
+
+I strive to constantly improve my strengths in Python, Algorithm&Development and Research. Passion for creating innovative solutions, collaborating within a team, and continuous learning are among my core values in my career.
+
 <!--
 **efeyilmaz25/efeyilmaz25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
